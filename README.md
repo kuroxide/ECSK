@@ -17,7 +17,7 @@ The ECSK designed to be simple and cheap enough that one person could plausibly 
 - Speaking of soldering, you need a soldering iron.
 
 ## Parts
-With that out of the way, we can get to the parts list. \
+With that out of the way, we can get to the parts list.
 - Raspberry Pi Pico ($15AUD).
 - 24 MX-style switches (~$25AUD). Very light linears are recommended (remember, you will be pressing lots of keys at once.) Gateron clears are a goodd choice. Get PCB-mount switches if you can't make the case, or if you care about repairability.
 - 24 diodes ($12-$30AUD). I used some very cheap 1N4002 diodes (200 for $12AUD). Basically any through-hole diodes with a DO-41 footprint or 7.62mm pin pitch will work.
@@ -35,5 +35,8 @@ Step 4. Flash CircuitPython and KMK onto the Pi Pico. This can be done at anytim
 Step 5. Program the Pico (.uf2 file to be added to this repo soon™) \
 Step 6. Check if it works. \
 Step 7. Stenography time!
+
+## Licensing
+This is an open hardware project.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
