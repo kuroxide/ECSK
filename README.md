@@ -34,6 +34,6 @@ Step 3. Solder in the switches. This is pretty self-explanatory. If you are usin
 Step 4. Flash CircuitPython and KMK onto the Pi Pico. This can be done at anytime. If you are using the case, you can press the reset button through the small hole in the top. \
 Step 5. Program the Pico (.uf2 file to be added to this repo soon™) \
 Step 6. Check if it works. \
-Step 7. Stenography time! \
+Step 7. Stenography time!
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
