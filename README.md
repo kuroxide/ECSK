@@ -26,14 +26,14 @@ With that out of the way, we can get to the parts list. \
 - The case. This is free if you have a) A 3D printer ready to go or b) A friend/school/acquaintance who will let you use their printer. Otherwise, you can order it to be made with some service. I suggest ditching the case entirely and just going with PCB-mount switches.
 
 ## Building the board
-All components should be soldered to the top of the PCB (the face with the silkscreen markings.)
-Step 0. If you are using the case, print it out. Snap all the switches in place, LED slot facing the bottom edge of the PCB. The bottom is the long edge closest to the controller's footprint.
-Step 1. Solder in all the diodes. Bend the legs to a 7.62mm pitch, then put them through the holes in the PCB with the cathode (marked with a line) facing the bottom edge of the PCB.
-Step 2. Solder in the Pi Pico. Try to line up the USB port with the edge. One method is to use some pin headers to align it while you solder some of the pins, then remove the header and solder the rest.
-Step 3. Solder in the switches. This is pretty self-explanatory. If you are using the case, place the case upside-down and lower the PCB onto it with the bottom face facing outwards, aligning the switch pins.
-Step 4. Flash CircuitPython and KMK onto the Pi Pico. This can be done at anytime. If you are using the case, you can press the reset button through the small hole in the top.
-Step 5. Program the Pico (.uf2 file to be added to this repo soon™)
-Step 6. Check if it works.
-Step 7. Stenography time!
+All components should be soldered to the top of the PCB (the face with the silkscreen markings.) \
+Step 0. If you are using the case, print it out. Snap all the switches in place, LED slot facing the bottom edge of the PCB. The bottom is the long edge closest to the controller's footprint. \
+Step 1. Solder in all the diodes. Bend the legs to a 7.62mm pitch, then put them through the holes in the PCB with the cathode (marked with a line) facing the bottom edge of the PCB. \
+Step 2. Solder in the Pi Pico. Try to line up the USB port with the edge. One method is to use some pin headers to align it while you solder some of the pins, then remove the header and solder the rest. \
+Step 3. Solder in the switches. This is pretty self-explanatory. If you are using the case, place the case upside-down and lower the PCB onto it with the bottom face facing outwards, aligning the switch pins. \
+Step 4. Flash CircuitPython and KMK onto the Pi Pico. This can be done at anytime. If you are using the case, you can press the reset button through the small hole in the top. \
+Step 5. Program the Pico (.uf2 file to be added to this repo soon™) \
+Step 6. Check if it works. \
+Step 7. Stenography time! \
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
