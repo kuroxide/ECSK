@@ -23,7 +23,7 @@ With that out of the way, we can get to the parts list.
 - 24 diodes ($12-$30AUD). I used some very cheap 1N4002 diodes (200 for $12AUD). Basically any through-hole diodes with a DO-41 footprint or 7.62mm pin pitch will work.
 - 24 keycaps ($20-$infinityAUD). This really just depends on how much you're willing to spend. I used some blank XDA profile caps which I got for $20AUD.
 - The PCB. The price for this is difficult to pinpoint. I got mine produced by JLCPCB for about $40AUD shipped. Keep in mind most fabs have a minimum order quantity.
-- The case. This is free if you have a) A 3D printer ready to go or b) A friend/school/acquaintance who will let you use their printer. Otherwise, you can order it to be made with some service. I suggest ditching the case entirely and just going with PCB-mount switches.
+- **Note: the case will not work with v2 of the PCB!** The case. This is free if you have a) A 3D printer ready to go or b) A friend/school/acquaintance who will let you use their printer. Otherwise, you can order it to be made with some service. I suggest ditching the case entirely and just going with PCB-mount switches.
 
 ## Building the board
 All components should be soldered to the top of the PCB (the face with the silkscreen markings.) \
